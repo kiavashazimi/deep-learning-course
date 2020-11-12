@@ -18,7 +18,7 @@
 
   * جبر خطی یادگیری عمیق
   * جلسه دوم
-    * تمرین* : مبحث ۶ از کتابچه* The Matrix Cookbook  به نام Statistics and Probability و مبحث PCA  با استفاده از  کتابخانه های Numpy , Math  انجام شود.
+    * *تمرین* : مبحث ۶ از کتابچه The Matrix Cookbook  به نام Statistics and Probability و مبحث PCA  با استفاده از  کتابخانه های Numpy , Math  انجام شود.
   * محاسبات یادگیری عمیق
   * وبینار تکمیلی و رفع اشکال
 
